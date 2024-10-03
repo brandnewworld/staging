@@ -1,0 +1,4 @@
+default_channels:
+    - http://192.168.2.25:9081/repository/conda/main
+    - http://192.168.2.25:9081/repository/conda/r
+    - http://192.168.2.25:9081/repository/conda/msys2
