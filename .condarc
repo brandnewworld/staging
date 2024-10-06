@@ -3,6 +3,6 @@ default_channels:
     - http://192.168.2.25:9081/repository/conda/r
     - http://192.168.2.25:9081/repository/conda/msys2
 custom_channels:
-    conda-forge: http://192.168.2.25:9081/repository/conda2/conda-forge
-    nvidia: http://192.168.2.25:9081/repository/conda2/nvidia
-    pytorch: http://192.168.2.25:9081/repository/conda2/pytorch
+    conda-forge: http://192.168.2.25:9081/repository/conda2/
+    nvidia: http://192.168.2.25:9081/repository/conda2/
+    pytorch: http://192.168.2.25:9081/repository/conda2/
